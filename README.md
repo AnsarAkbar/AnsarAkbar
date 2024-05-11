@@ -46,12 +46,12 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Waqas, a MERN Stac
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/waqas-arshad-849a77268/" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waqas-Linkedin" height="30" width="40" />
+<a href="www.linkedin.com/in/ansar-mahmood-391225264" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ansar-link" height="30" width="40" />
 </a>
 
-  <a href="https://stackoverflow.com/users/23066300/waqas-arshad" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Waqas-StackOverFlow" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/24989315/ansar-mahmood-298" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Ansar-StackOverFlow" height="30" width="40" /></a>
     
 <a href="https://www.instagram.com/waqasarshad5678/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Waqas-Instagram" height="30" width="40" />
