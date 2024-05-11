@@ -1,10 +1,10 @@
 <h3>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
 
-<a href="">
+<a href="https://twitter.com/Ansarmahmoos298">
   <img align="left" alt="Ansar's LinkedIn" width="22px" src="https://github.com/WaqasArshad97/DiceGame/assets/140519770/9a5bf99d-7149-4004-938c-bb492c2c238c" alt="twiter-logo"/>
 </a>
 
-<a href="www.linkedin.com/in/ansar-mahmood-391225264">
+<a href="https://www.linkedin.com/in/ansar-mahmood-391225264/">
   <img align="left" alt="Ansar's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
@@ -34,7 +34,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a F
 
 - 👨‍💻 All of my projects are available  [Here](https://github.com/AnsarAkbar)
 
-- 📝 I regularly write articles  [Here](www.linkedin.com/in/ansar-mahmood-391225264)
+- 📝 I regularly write articles  [Here](https://www.linkedin.com/in/ansar-mahmood-391225264/)
 
 - 💬 Ask me about **Html, Css, JavaScript, ReactJs, Tailwind, Bootstrap**
 
@@ -42,7 +42,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a F
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ansar-mahmood-391225264" target="blank">
+<a href="https://www.linkedin.com/in/ansar-mahmood-391225264/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ansar-link" height="30" width="40" />
 </a>
 
