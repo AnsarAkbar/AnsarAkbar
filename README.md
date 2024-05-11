@@ -22,7 +22,7 @@
 
 Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a Frontend React developer 🚀 from Pakistan. Currently, i'm a full time Frontend react developer and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
 
-<img align="right" src='https://github.com/AnsarAkbar/AnsarAkbar/assets/149039926/f43ef1ea-e96a-4c5e-8055-4891e7240762' alt="figma" width="500" height="300"/>
+<img align="right" src='https://github.com/AnsarAkbar/AnsarAkbar/assets/149039926/f43ef1ea-e96a-4c5e-8055-4891e7240762' alt="figma" width="500" height="200"/>
 
 - 🔭 I’m currently working on **Frontend React Developer**
 
