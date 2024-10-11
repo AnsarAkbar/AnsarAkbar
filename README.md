@@ -18,9 +18,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnsarAkbar&label=PROFILE+VIEWS" alt="" /> </p>
 
-<h3>A Frontend React Developer from Pakistan</h3>
+<h3>A MERN Stack Developer from Pakistan</h3>
 
-Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a Frontend React developer 🚀 from Pakistan. Currently, i'm a full time Frontend react developer and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
+Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a MERN Stack developer 🚀 from Pakistan. Currently, i'm a full time Frontend react developer and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
 
 <img align="right" src='https://github.com/AnsarAkbar/AnsarAkbar/assets/149039926/f43ef1ea-e96a-4c5e-8055-4891e7240762' alt="figma" width="500" height="200"/>
 
@@ -36,7 +36,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a F
 
 - 📝 I regularly write articles  [Here](https://www.linkedin.com/in/ansar-mahmood-391225264/)
 
-- 💬 Ask me about **Html, Css, JavaScript, ReactJs, Tailwind, Bootstrap**
+- 💬 Ask me about **Html, Css, JavaScript, ReactJs, Tailwind, Bootstrap, Mongodb, Express, NodeJS**
 
 - ⚡ Fun fact **Current Focus on learning**
 
