@@ -109,7 +109,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
 
     
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…9zry7GVi1ihE44DQF/R+OlXibWO9OpQAAAABJRU5ErkJggg==" alt="postman" width="40" height="40"/> </a>
+    <img src="	https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
 	
   <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/download/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
