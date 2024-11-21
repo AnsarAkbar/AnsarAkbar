@@ -71,9 +71,20 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<!--     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb" width="40" height="40"/> </a>
+-->
+    
+ <!-- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>-->
+	
+ <!-- <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/download/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a> -->
+
+
   
-  <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
+       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   
   <!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
@@ -81,11 +92,11 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
   <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   
-  <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
      
-  <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
+   <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
@@ -104,16 +115,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
     
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb" width="40" height="40"/> </a>
-
     
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
-	
-  <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/download/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> </a>
-
 
 
 <hr/>
