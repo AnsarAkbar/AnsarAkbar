@@ -28,7 +28,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
 
 - 🌱 I’m currently learning **NextJs, NodeJs, Express Js and MongoDb** to be a full MERN Stack developer.
 
-- 👯 I’m looking to collaborate on **Fontend Development**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 🤝 I’m looking for help with **MERN Stack Application**
 
