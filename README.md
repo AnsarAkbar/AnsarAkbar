@@ -24,7 +24,7 @@ Hi, Welcome, I'm glad to see you on my github profile. Myself Ansar Mahmood, a M
 
 <img align="right" src='https://github.com/AnsarAkbar/AnsarAkbar/assets/149039926/f43ef1ea-e96a-4c5e-8055-4891e7240762' alt="figma" width="500" height="200"/>
 
-- 🔭 I’m currently working on **Frontend React Developer**
+- 🔭 I’m currently working on **MERN Stack Developer**
 
 - 🌱 I’m currently learning **NextJs, NodeJs, Express Js and MongoDb** to be a full MERN Stack developer.
 
